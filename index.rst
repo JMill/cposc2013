@@ -1,7 +1,7 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-A Gentle Introduction To Python
-*********************************
+Have you opened a book lately?
+*************************************
 
 **By Jonathan B. Miller**
 
@@ -9,87 +9,23 @@ A Gentle Introduction To Python
 * twitter: `@imjmill <https://twitter.com/imjmill>`_
 * `LinkedIn <http://linkedin.com/in/jmill>`_
 
-This is an online guidebook for the workshop entitled *A Gentle Introduction to Python*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Liberal Arts Scholarship and Technology Summit (LASTS) at The Pennsylvania State University, University Park, PA, on Thursday, August 15th, 2013.
+This is an online guidebook for the talk entitled *have you opened a book lately?*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Central Pensylvania Open Source Conference at IU13 Conference and Training Center, Lancaster, PA, on Saturdat, October 19th, 2013.
 
 
-Workshop description
+Talk description
 =======================
 
-*Stop fighting the computer and instead make it do your bidding. Learn how to get up and running with Python, a general-purpose coding language that is both newbie friendly yet very powerful. Python is used at large organizations such as Google, Yahoo!, CERN, and NASA, and in many famous applications including Youtube, Dropbox, Instagram, and Reddit. Attendees in this workshop will get a taste of basic computer science concepts via in-class examples and have opportunities to apply the knowledge in guided exercises. No coding experience is necessary. Learn by doing -- bring your computer.*
+*This presentation explores the motivations and means for authoring books with ""open"" copyright. The difference in gratis and libre philosophies will be briefly contrasted, as well as business models that can help support open book authors.
 
+Using Shaw's learn-x-the-hard-way framework as a base, we will explore how Python, dexy, reStructuredText, LaTeX, and more come together to make a publication-ready technical book. Deployment options for HTML and PDF will be demonstrated. No prior experience required.*
 
-
-Last updated on {{ d['code/00----datetimestamp.py|py']}}
 
 
 `Show 00: Python Setup <show00.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Getting and installing Canopy
-
-
-`Show 01: Your first program <show01.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* ``print()`` to make text appear on the screen (in the *console*).
-* ``#`` for commenting-out (hiding) text from the computer.
-
-`Show 02: Strings, Integers, and Floats <show02.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* more ``print()``
-* more ``#`` commenting
-* strings
-* ints
-* floats
-
-`Do 01 <do01.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Basic practice of strings and numbers.
+* etc.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-`Show 03: Variables <show03.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* variables, ``if`` statements, conditions.
-
-`Show 04: Hobbits <show04.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* lists
-
-`Show 05: Rowing <show05.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* more lists
-* using others' functions
-* some math
-
-`Do 02 <do02.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* More strings and numbers, with a taste of lists and ``if`` statements.
-
-------------------------------------------------------------------------------------------------------------------------------
-
-`Show 06: More Rowing <show06.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* functions
-
-`Show 07: Yet More Rowing <show07.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* graphing
-
-
-`The Path Ahead <next.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Resources to keep you busy
-
-------------------------------------------------------------------------------------------------------------------------------
-
-The source code for this workshop's documentation lives at `https://bitbucket.org/JMill/lasts2013py <https://bitbucket.org/JMill/lasts2013py>`_. There is also a `README. <README.html>`_
+The source code for this workshop's documentation lives at `https://bitbucket.org/JMill/cposc2013 <https://bitbucket.org/JMill/cposc2013>`_. There is also a `README. <README.html>`_
