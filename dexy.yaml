@@ -1,0 +1,23 @@
+assets:
+    - .css|jinja
+    - .js
+    - .html|jinja
+    - .png
+    - .gif
+    - .jpg
+    - .jinja
+
+html-code:
+    - code/*.sh-session|pyg|h
+    - code/*.py|pyg|h
+    - code/*.py|py
+    - code/*.txt
+    - code/*.zip
+
+.rst|yamlargs|jinja|rst2html:
+    - .py|idio|pycon|pyg:
+        - pycon: { add-new-files: True } # for saving pyplot imgs
+    - html-code
+    - assets
+    - rst2html:
+        { clargs: "--template=template.html" }

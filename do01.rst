@@ -1,0 +1,24 @@
+{% import "macros/ork.jinja" as ork with context %}
+
+Do 01: Basic strings and numbers
+*************************************
+
+Copy/paste this code or `download the bundle <code/lasts-do-bundle.zip>`_.
+
+{{ ork.code('code/do01.py|pyg') }}
+
+When you first run it, you'll see this::
+
+	{{ d['code/do01.py|py']|indent(4) }}
+
+I added some tests for you to pass. Sample solutions are below. *Please don't look at the solutions until you're definitely stumped, or else you won't learn anything.*
+
+----------------------------------------------------------------------------------------------------------------
+
+Solutions: (don't peek!)
+
+{{ ork.code('code/do01-soln.py|pyg') }}
+
+All the tests pass::
+
+	{{ d['code/do01-soln.py|py']|indent(4) }}
