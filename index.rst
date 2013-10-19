@@ -7,9 +7,11 @@ Have you opened a book lately?
 
 * web: `JMillville.com <http://jmillville.com>`_
 * twitter: `@imjmill <https://twitter.com/imjmill>`_
-* `LinkedIn <http://linkedin.com/in/jmill>`_
+* `linkedin.com/in/jmill <http://linkedin.com/in/jmill>`_
 
-This is an online guidebook for the talk entitled *Have you opened a book lately?*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Central Pensylvania Open Source Conference at IU13 Conference and Training Center, Lancaster, PA, on Saturdat, October 19th, 2013.
+This is an online guidebook for the talk entitled *Have you opened a book lately?*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Central Pensylvania Open Source Conference at IU13 Conference and Training Center, Lancaster, PA, on Saturday, October 19th, 2013.
+
+*Pardon the typos.*
 
 
 Talk description
@@ -21,11 +23,17 @@ Talk description
 
 
 
-`Show 00: Python Setup <show00.html>`_
+`Setup <show00.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* etc.
+`Dexy, first pass <show01.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+`Running learn-x-the-hard-way <show02.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`The Business Case <showbiz.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ------------------------------------------------------------------------------------------------------------------------------
 
 The source code for this workshop's documentation lives at `https://bitbucket.org/JMill/cposc2013 <https://bitbucket.org/JMill/cposc2013>`_. There is also a `README. <README.html>`_
