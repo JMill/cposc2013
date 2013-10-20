@@ -30,3 +30,11 @@ Here is ``code`` in the same sentence.
 .. raw:: html
 
 	<iframe width="420" height="315" src="http://www.youtube.com/embed/60voGAo4hqY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+.. math::
+
+	\begin{split}
+	4 &= 5 \\
+	3 &= 5
+	\end{split}

@@ -7,11 +7,11 @@ The Business Case
 Libre and gratis
 ==================
 
-Libre >> "Liberty"
+**Libre >> "Liberty"**
 
 Freedom to do what you want.
 
-Gratis >> "Complimentary"
+**Gratis >> "Complimentary"**
 
 No cost for good or service, even if has value. 
 
