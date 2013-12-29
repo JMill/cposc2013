@@ -1,4 +1,4 @@
-This is an online guidebook for the talk entitled *have you opened a book lately?*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Central Pensylvania Open Source Conference at IU13 Conference and Training Center, Lancaster, PA, on Saturdat, October 19th, 2013.
+This is an online guidebook for the talk entitled *Have you opened a book lately?*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Central Pennsylvania Open Source Conference at IU13 Conference and Training Center, Lancaster, PA, on Saturday, October 19th, 2013.
 
 
 Talk description
@@ -25,6 +25,6 @@ This code and the accompanying talk are based on my experiences writing the upco
 Help
 ====================
 
-If you need help, contact me at jonathan@jmillville.com.
+If you need help, contact me at jonathan ( at ) jmillville.com.
 
 
